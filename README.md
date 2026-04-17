@@ -5,7 +5,7 @@
 hiii i'm damaris martinez, an aspiring front-end developer
 
 
-## .𖥔 ݁ 🪐˖. socials:
+# .𖥔 ݁ 🪐˖. socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/damarismaartinez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damarismaartinez) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yvngnut) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damarismartinez.work@gmail.com) 
 
 # ⌨ᝰ๋࣭𝜗᭡ tech stack:
